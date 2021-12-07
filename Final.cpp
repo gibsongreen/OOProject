@@ -1,5 +1,8 @@
 // Final.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Procedural programming uses a very detailed list of instructions to tell the computer what to do step by step. This approach
+// uses iteration to repeat a series of steps as often as needed. Functional programming is an approach to problem solving that 
+// treats every computation as a mathematical function source: https://study.com/academy/lesson/functional-programming-and-logic-programming.html#:~:text=Procedural%20programming%20uses%20a%20very,computation%20as%20a%20mathematical%20function.
+
 
 #include <iostream>
 #include "Refridgerator.h"
