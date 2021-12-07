@@ -2,6 +2,9 @@
 // Procedural programming uses a very detailed list of instructions to tell the computer what to do step by step. This approach
 // uses iteration to repeat a series of steps as often as needed. Functional programming is an approach to problem solving that 
 // treats every computation as a mathematical function source: https://study.com/academy/lesson/functional-programming-and-logic-programming.html#:~:text=Procedural%20programming%20uses%20a%20very,computation%20as%20a%20mathematical%20function.
+// Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than 
+// functions and logic. An object can be defined as a data field that has unique attributes and behavior.
+// Each distinct logic sequence is known as a method. source: https://searchapparchitecture.techtarget.com/definition/object-oriented-programming-OOP#:~:text=Object%2Doriented%20programming%20(OOP)%20is%20a%20computer%20programming%20model,has%20unique%20attributes%20and%20behavior.&text=Each%20distinct%20logic%20sequence%20is%20known%20as%20a%20method.
 
 
 #include <iostream>
