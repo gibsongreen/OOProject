@@ -5,7 +5,7 @@ This Integration project will highlight OOP skills from Programming II. It will 
 
 System Model:
 
-		Container is the grandparent class to								Item is the parent class			Kitchen
+		Container is the grandparent class to								Item is the parent class			Kitchen class
 		/			\										/	\
 parent class Refridgerator	children classes pantry, canned good, spice drawer			child food class	child drink class
 	/
