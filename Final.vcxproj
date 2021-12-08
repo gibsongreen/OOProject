@@ -141,8 +141,11 @@
   <ItemGroup>
     <ClCompile Include="CannedGoods.cpp" />
     <ClCompile Include="Container.cpp" />
+    <ClCompile Include="Drink.cpp" />
     <ClCompile Include="Final.cpp" />
+    <ClCompile Include="Food.cpp" />
     <ClCompile Include="Freezer.cpp" />
+    <ClCompile Include="Item.cpp" />
     <ClCompile Include="Kitchen.cpp" />
     <ClCompile Include="Pantry.cpp" />
     <ClCompile Include="Refridgerator.cpp" />
@@ -151,7 +154,10 @@
   <ItemGroup>
     <ClInclude Include="CannedGoods.h" />
     <ClInclude Include="Container.h" />
+    <ClInclude Include="Drink.h" />
+    <ClInclude Include="Food.h" />
     <ClInclude Include="Freezer.h" />
+    <ClInclude Include="Item.h" />
     <ClInclude Include="Kitchen.h" />
     <ClInclude Include="Pantry.h" />
     <ClInclude Include="Refridgerator.h" />

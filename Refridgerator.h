@@ -4,8 +4,10 @@
 class Refridgerator : public Container
 {
 public:
-	int internal_temperature;
 	Refridgerator();
+
+	int internal_temperature;
 	int getInternalTemperature();
 	void setInternalTemperature(int t);
+	void changeInternalTemperature();
 };

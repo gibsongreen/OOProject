@@ -14,5 +14,4 @@ public:
     Pantry pantry;
     CannedGoods cannedgoods;
     SpiceDrawer spicedrawer;
-    //void SetNewUserData();
 };
