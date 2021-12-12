@@ -4,10 +4,6 @@ using namespace std;
 #include <fstream>
 #include <string>
 
-Container::Container()
-{
-	name = "name";
-};
 Container::Container(string n)
 {
 	name = n;
