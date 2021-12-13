@@ -1,9 +1,15 @@
-# OOProject
+# Kitchen Inventory System
 **Please View the Raw option to view the system inheritance viewable model **
 
 This Integration project will highlight OOP skills from Programming II. It will be a programming solution to Monitoring Kitchen Inventory. There will be five locations where food can be stored: refrigerator, freezer, pantry, canned goods, and spices. 
 
-**Final.cpp is the main function to operate the program **
+# Demonstration
+
+# Documentation
+Change repository settings (using Settings at top of page) to use GitHub Pages with your docs folder.
+	
+
+# Diagrams 
 
 System Model:
 
@@ -33,4 +39,28 @@ child class Freezer
 	- allow for returning user to access their kitchen data, or new users to set up their kitchen
 	- default kitchen setup, enter as returning user to access default kitchen
 	- otherwise, setup your kitchen as a new user, save your container files after updating objects
+	
+# Getting Started
+Final.cpp is the main function to operate the program
+
+# Built With
+- Microsoft Visual Studio 
+- Documentation Generated with Doxygen
+
+# Contributing
+
+# Author
+- Gibson Green
+
+# Liscence
+- N/A
+
+# Acknowledgments
+- N/A
+
+# History
+- N/A
+
+# Key Programming Concepts Utilized
+- N/a
 		
