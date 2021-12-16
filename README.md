@@ -1,12 +1,15 @@
 # Kitchen Inventory System
 **Please View the Raw option to view the system inheritance viewable model **
 
-This Integration project will highlight OOP skills from Programming II. It will be a programming solution to Monitoring Kitchen Inventory. There will be five locations where food can be stored: refrigerator, freezer, pantry, canned goods, and spices. 
+The Kitchen Inventory System was developed independently by Gibson Green. It is an inventory system to track
+the food and drink items in the different containers in the kitchen. It also has a grocery list for the kitchen.
+This project was made throughout the Fall Semester of 2021, as an integration school project for Programming II at
+Florida Gulf Coast University. 
 
 # Demonstration
 
 # Documentation
-Change repository settings (using Settings at top of page) to use GitHub Pages with your docs folder.
+https://gibsongreen.github.io/OOProject/index.html
 	
 
 # Diagrams 
@@ -41,7 +44,7 @@ child class Freezer
 	- otherwise, setup your kitchen as a new user, save your container files after updating objects
 	
 # Getting Started
-Final.cpp is the main function to operate the program
+Clone the repository, Final.cpp is the main function to operate the program
 
 # Built With
 - Microsoft Visual Studio 
@@ -52,15 +55,38 @@ Final.cpp is the main function to operate the program
 # Author
 - Gibson Green
 
-# Liscence
-- N/A
 
 # Acknowledgments
-- N/A
+- https://www.cmi.ac.in/~madhavan/courses/pl2009/lecturenotes/lecture-notes/node28.html#:~:text=Subtyping%20refers%20to%20compatibility%20of,refers%20to%20reuse%20of%20implementations
+- https://www.geeksforgeeks.org/
+- https://www.learncpp.com/
 
 # History
 - N/A
 
 # Key Programming Concepts Utilized
-- N/a
+LO1. Design and implement a class. 
+
+LO4. Include a comment in which you compare and contrast the procedural/functional approach and the object-oriented approach
+
+LO1a. At least one class in a header file with non-trivial methods implemented in a cpp file
+
+LO1b. Overload a constructor 
+
+LO1c. Utilize an initialization list
+
+LO2. Use subclassing to design simple class hierarchies that allow code to be reused for distinct subclasses.
+
+LO2a. Include comments describing the visibility inheritance model
+
+LO3. Correctly reason about control flow in a program using dynamic dispatch. 
+
+LO5. Explain the relationship between object-oriented inheritance (code-sharing and overriding) and subtyping (the idea of a subtype being usable in a context that expects the supertype).
+
+LO6. Use object-oriented encapsulation mechanisms such as interfaces and private members.
+
+LO7. Define and use iterators and other operations on aggregates, including operations that take functions as arguments. 
+
+- Follow best practices for style and readability
+- Follow best practices for documentation
 		
