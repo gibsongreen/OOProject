@@ -1,0 +1,3 @@
+beans,10,1
+tomatoes,2,2
+soup,3,3
