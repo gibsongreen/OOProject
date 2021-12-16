@@ -72,9 +72,15 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
+    <EnableClangTidyCodeAnalysis>true</EnableClangTidyCodeAnalysis>
+    <CodeAnalysisRuleSet>Rules.ruleset</CodeAnalysisRuleSet>
+    <ClangTidyChecks>cppcoreguidelines*, google*, modernize*, readability*, bugprone*</ClangTidyChecks>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
+    <EnableClangTidyCodeAnalysis>true</EnableClangTidyCodeAnalysis>
+    <CodeAnalysisRuleSet>Rules.ruleset</CodeAnalysisRuleSet>
+    <ClangTidyChecks>cppcoreguidelines*, google*, modernize*, readability*, bugprone*</ClangTidyChecks>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
@@ -149,6 +155,7 @@
     <ClCompile Include="Kitchen.cpp" />
     <ClCompile Include="Pantry.cpp" />
     <ClCompile Include="Refridgerator.cpp" />
+    <ClCompile Include="GroceryList.cpp" />
     <ClCompile Include="SpiceDrawer.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -157,6 +164,7 @@
     <ClInclude Include="Drink.h" />
     <ClInclude Include="Food.h" />
     <ClInclude Include="Freezer.h" />
+    <ClInclude Include="GroceryList.h" />
     <ClInclude Include="Item.h" />
     <ClInclude Include="Kitchen.h" />
     <ClInclude Include="Pantry.h" />

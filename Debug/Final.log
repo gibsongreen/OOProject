@@ -1,6 +1,30 @@
-﻿  CannedGoods.cpp
-  Final.cpp
-  Kitchen.cpp
-  Pantry.cpp
-  Generating Code...
-  Final.vcxproj -> C:\Users\gibso\source\repos\Final\Debug\Final.exe
+﻿  Container.cpp
+C:\Users\gibso\source\repos\Final\Final\Container.h(72): warning C26455: Default constructor may not throw. Declare it 'noexcept' (f.6).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(50): warning C26409: Avoid calling new and delete explicitly, use std::make_unique<T> instead (r.11).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(50): warning C26403: Reset or explicitly delete an owner<T> pointer 'food' (r.3).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(56): warning C26409: Avoid calling new and delete explicitly, use std::make_unique<T> instead (r.11).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(56): warning C26403: Reset or explicitly delete an owner<T> pointer 'food' (r.3).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(115): warning C26409: Avoid calling new and delete explicitly, use std::make_unique<T> instead (r.11).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(115): warning C26403: Reset or explicitly delete an owner<T> pointer 'drink' (r.3).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(121): warning C26409: Avoid calling new and delete explicitly, use std::make_unique<T> instead (r.11).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(121): warning C26403: Reset or explicitly delete an owner<T> pointer 'drink' (r.3).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(165): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(165): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(165): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(173): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(173): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(173): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(186): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(186): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(186): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(198): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(198): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(198): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(261): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(261): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(261): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(277): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(277): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\gibso\source\repos\Final\Final\Container.cpp(277): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+  Suppressed 25661 warnings (25661 in non-user code).
+  Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
